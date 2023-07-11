@@ -1,0 +1,2 @@
+# SQLNHTSA
+The United States National Highway Research involved analyzing NHTSA (National Highway Traffic Safety Administration) accident data using PostgreSQL and Spreadsheets to identify conditions that increase the risk of accidents on toll roads. Common trends among the top 10 states with the highest number of accidents were determined and targeted safety campaigns were developed for peak accident hours. This research aimed to increase awareness of accident risk factors and develop strategies to improve road safety.
